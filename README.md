@@ -44,7 +44,7 @@ Procedure:
 
 
 # OUTPUT: 
-[exp3.pdf](https://github.com/user-attachments/files/25570176/exp3.pdf)
+https://docs.google.com/document/d/1DiIiNYAd9xleg5M3LtMQqL7qffqAwdeeLS641UNlh-c/edit?tab=t.0
 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
